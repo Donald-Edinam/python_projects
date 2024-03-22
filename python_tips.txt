@@ -1,0 +1,12 @@
+Converting .py file to .exe
+
+1. Install pyinstaller
+        pip install pyinstaller
+2. To conveert .py file to executable run
+        pyinstaller -F "path_to_file.py"
+
+
+How to run .exe on startup
+    1. Press both windows key and run
+    2. Type "shell:startup"
+    3. Add the .py file to the folder opened
